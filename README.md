@@ -13,3 +13,6 @@
 
 #### Sequential Modeling theory can be found here 
 [Link](https://towardsdatascience.com/building-a-deep-learning-model-using-keras-1548ca149d37)
+
+#### Good explination of Regressive Modeling
+[link](https://towardsdatascience.com/7-of-the-most-commonly-used-regression-algorithms-and-how-to-choose-the-right-one-fc3c8890f9e3)
