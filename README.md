@@ -3,7 +3,7 @@
 - [Link](https://www.youtube.com/watch?v=GFSiL6zEZF0&ab_channel=NeuralNine)
 
 #### This is a test case for using sequential predictive models to predict the next days stock/crypto price using 60 days of past trading data. 
-- Libraries neede:
+- Libraries needed:
   - numpy
   - pandas
   - datetime
